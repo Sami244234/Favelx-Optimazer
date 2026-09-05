@@ -1,7 +1,6 @@
 1 - Download the Optimazer
 2 - Extract the Optimazer
-3 - open in exe app
-
+3 - open in exe ap
 
 
 
