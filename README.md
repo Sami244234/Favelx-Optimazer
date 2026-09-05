@@ -11,4 +11,4 @@ Packaged as a self-extracting archive (favelx_package/ux), it uses Zlib compress
 Please Subscribe ❤️
 [Youtube](https://www.youtube.com/@Favelx_nt)
 Open discord server 
-[Discord](https://discord.gg/bBUQx9dQVm)
+
